@@ -47,7 +47,7 @@ main{
 #qr-code {
     width: 288px;
     height: 288px;
-    background-image: url('/images/image-qr-code.png');
+    background-image: url('./images/image-qr-code.png');
     background-size: cover;
     border-radius: 20px;
     margin: 16px;
